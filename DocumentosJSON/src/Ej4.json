@@ -1,0 +1,42 @@
+{
+  "INVOICE": {
+    "BusinessContactInformation": {
+      "BusinessName": "Lorem Ipsum",
+      "StreetAdress": "Lorem Ipsum",
+      "CityStateZip": "Lorem Ipsum",
+      "Telephone": "526620000000",
+      "Email": "LoremIpsum@gmail.com",
+      "Website": "LoremIpsum.com"
+    },
+    "BillTo": {
+      "ClientName": "Lorem Ipsum",
+      "StreetAddress": "Lorem Ipsum",
+      "CityStateZip": "Lorem Ipsum"
+    },
+    "ShipTo" : {
+      "ClientName": "Lorem Ipsum",
+      "StreetAddress": "Lorem Ipsum",
+      "CityStateZip": "Lorem Ipsum"
+    },
+    "InvoiceDetails" : {
+      "InvoiceNo" : 12345,
+      "InvoiceDate" : "mm/dd/yyyy",
+      "Terms" : "Net30",
+      "Due" : "mm/dd/yyyy"
+    },
+    "DescriptionOfGoodsAndServices": {
+      "ProductOrService": "Lorem Ipsum",
+      "Description": "Lorem Ipsum",
+      "QuantityOrHours": "Lorem Ipsum",
+      "Rate": "Lorem Ipsum",
+      "Amount": "Lorem Ipsum"
+    },
+    "Billing": {
+      "Subtotal": "Lorem Ipsum",
+      "SalesTax": "Lorem Ipsum",
+      "ShippingFee": "Lorem Ipsum",
+      "Total": "Lorem Ipsum",
+      "Comments": "Lorem Ipsum"
+    }
+  }
+}
